@@ -123,9 +123,7 @@
 
   <a href="https://afdian.com/a/marseventh"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
   
-- **Sponsors**：感谢以下赞助者对本项目的支持！
 
-  [![赞助者](https://afdian-sponsors.sanyue.de/image)](https://afdian.com/a/marseventh)
   
 - **Contributors**：感谢以下贡献者对本项目的无私贡献！
 
